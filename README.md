@@ -65,14 +65,6 @@ matplotlib
 casadi
 ```
 
-Install them with:
-
-```bash
-pip install -r requirements.txt
-```
-
-Alternatively:
-
 ```bash
 pip install tensorflow numpy scipy matplotlib casadi
 ```
